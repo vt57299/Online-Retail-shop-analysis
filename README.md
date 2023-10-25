@@ -25,6 +25,7 @@
 ![Orders per month](https://github.com/vt57299/Online-Retail-shop-analysis/blob/main/Images/total%20orders%20per%20month.png)
 7. Customer Retention:
 - The number of active customers per month varied, indicating fluctuations in customer engagement over time.
+![Monthly active customers](https://github.com/vt57299/Online-Retail-shop-analysis/blob/main/Images/monthly%20active%20customers.png?raw=true)
 8. Returns and Giveaways:
 - There were 3,838 returned transactions, resulting in a total value of $916,103.85. This suggests the need to analyze reasons for returns and take appropriate actions.
 - The United Kingdom is the primary country for free giveaways, with 1,038 instances.
