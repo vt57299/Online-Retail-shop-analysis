@@ -3,6 +3,7 @@
 1. Revenue Trends:
 - The highest revenue was recorded in November 2011, reaching 1,456,145.80 dollars, while the lowest was in February 2011, at $497,026.41.
 - There was a significant drop in revenue from December 2010 to January 2011, indicating a seasonal trend.
+![Revenue Per Month][https://github.com/vt57299/Online-Retail-shop-analysis/blob/main/Images/Total%20Revenue%20Per%20Month.png?raw=true]
 2. Monthly Growth Rate:
 - The business experienced a sharp decline in revenue in December 2011, with a growth rate of -70.28%. This indicates a substantial drop in sales during this period.
 3. Top Countries by Revenue and Quantity:
