@@ -3,21 +3,26 @@
 1. Revenue Trends:
 - The highest revenue was recorded in November 2011, reaching 1,456,145.80 dollars, while the lowest was in February 2011, at $497,026.41.
 - There was a significant drop in revenue from December 2010 to January 2011, indicating a seasonal trend.
-![Revenue Per Month][https://github.com/vt57299/Online-Retail-shop-analysis/blob/main/Images/Total%20Revenue%20Per%20Month.png?raw=true]
+![Revenue Per Month](https://github.com/vt57299/Online-Retail-shop-analysis/blob/main/Images/Total%20Revenue%20Per%20Month.png?raw=true)
 2. Monthly Growth Rate:
 - The business experienced a sharp decline in revenue in December 2011, with a growth rate of -70.28%. This indicates a substantial drop in sales during this period.
+![Monthly Growth Rate](https://github.com/vt57299/Online-Retail-shop-analysis/blob/main/Images/Mothly%20Growth%20Rate.png)
 3. Top Countries by Revenue and Quantity:
 - The United Kingdom leads in both revenue and quantity sold, with over $8.16 million in revenue and approximately 4.26 million items sold.
 - Netherlands and EIRE also show strong performance in terms of revenue and quantity.
+![Top countries](https://github.com/vt57299/Online-Retail-shop-analysis/blob/main/Images/Quantity%20and%20Revenue%20per%20country.png?raw=true)
 4. Customer Analysis:
 - The United Kingdom has the highest number of customers (3,951), followed by Germany (95) and France (88).
 - Customer 12415 in the United Kingdom is the highest spender, generating revenue of $123,725.45.
+![Customer per country](https://github.com/vt57299/Online-Retail-shop-analysis/blob/main/Images/Customers%20Per%20Country.png)
 5. Product Analysis:
 - The most sold product is '22197' with a quantity of 56,427.
 - The highest revenue-generating product is 'DOT' with revenue of $206,245.48.
+![Product analysis visuals](https://github.com/vt57299/Online-Retail-shop-analysis/blob/main/Images/Top%20products.png)
 6. Transaction Analysis:
 - November 2011 had the highest number of transactions (83,268), followed by October 2011 (59,865).
 - February 2011 had the lowest number of transactions (27,414).
+![Orders per month](https://github.com/vt57299/Online-Retail-shop-analysis/blob/main/Images/total%20orders%20per%20month.png)
 7. Customer Retention:
 - The number of active customers per month varied, indicating fluctuations in customer engagement over time.
 8. Returns and Giveaways:
